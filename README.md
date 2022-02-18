@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @CabrestopUK
+- 👋 Hi, I’m @CabrestopUK,
 I like to code in python.
-Minecraft addict and likes video games.
+Im also a Minecraft addict and likes video games.
